@@ -1,2 +1,1 @@
-# Lessons in C++
-
+# Trying to learn C++
